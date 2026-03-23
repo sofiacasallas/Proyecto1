@@ -1,5 +1,5 @@
 # Proyecto 1 - Sofía Lorena Casallas Beltrán
-# Misión Gaia DR3 (Evolución Estelar)
+## Misión Gaia DR3 (Evolución Estelar)
 
 Este repositorio contiene el `pipeline.sh` que automatiza la descarga y el análisis de los datos de la misión Gaia DR3.
 Los datos extraídos con `constructor_db.py`, lo cuales fueron filtrados para que no hubieran fuentes con valores Nan y tuvieran siempre paralaje positivo,  se utilizan para realizar los siguientes cálculos:
